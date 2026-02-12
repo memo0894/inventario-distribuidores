@@ -4,7 +4,7 @@ Aplicación en **PHP 8 sin frameworks** para gestionar distribuidores/locales co
 
 ## Requisitos
 
-- PHP 8+
+- PHP 8.0+ (sin `readonly`)
 - Extensión `pdo_sqlite` habilitada
 
 ## Estructura
